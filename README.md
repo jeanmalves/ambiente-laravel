@@ -5,4 +5,4 @@ Ambiente laravel para desenvolvimento com NGINX, PHP-FPM, Redis e MySQL.
 `docker pull jeanmalves/laravel`
 
 # Imagem Golang:
-`docker pull jeanmalves/go-codeeducation`
+`docker pull jeanmalves/codeeducation`
